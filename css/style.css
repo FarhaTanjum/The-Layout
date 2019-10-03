@@ -1,0 +1,78 @@
+.logo{
+	min-height: 100px;
+	background-color: yellow;
+	margin: 10px 10px;
+}
+.header{
+	min-height: 200px;
+	background-color: black;
+	margin: 10px 10px;
+}
+.wrapper{overflow: hidden;margin: auto;/* width: 1200px; */}
+.nav1{
+	min-height: 30px;
+	background-color: green;
+	width: 22%;
+	float: left;
+	margin: 10px;
+	padding: 5px;
+}
+.nav2{
+	min-height: 30px;
+	background-color: green;
+	width: 22%;
+	float: left;
+	margin: 10px;
+	padding: 5px;
+}
+.nav3{
+	min-height: 30px;
+	background-color: green;
+	width: 22%;
+	float: left;
+	margin: 10px;
+	padding: 5px;
+}
+.nav4{
+	min-height: 30px;
+	background-color: green;
+	width: 22%;
+	float: left;
+	margin: 10px;
+	padding: 5px 19px;
+}
+
+.container{
+	overflow: hidden;
+	margin: auto;
+}
+
+.box{
+	background-color: gray;
+	min-height: 360px;
+	width: 50%;
+	float: left;
+	margin: 10px;
+	padding: 10px;
+}
+.box2{background-color: gray;min-height:180px;width: 40%;float: right;margin: 10px;}
+.box3{
+	background-color: gray;
+	min-height:180px;
+	width: 40%;
+	float:right;
+	margin: 10px;
+}
+
+
+.footer{
+	min-height: 200px;
+	background-color: aqua;
+	margin: 10px;
+}
+p{ 
+	text-align: center;
+	
+
+
+ }
